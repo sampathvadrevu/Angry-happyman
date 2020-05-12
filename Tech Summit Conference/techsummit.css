@@ -1,0 +1,41 @@
+body
+{
+	background-image: url('https://allanlloyds.com/videos/backgroundvideo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+h1
+{
+	font-family: 'Lexend Giga', sans-serif;
+	font-family: 'Baloo Paaji 2', cursive;
+}
+#navbar
+{
+	color: black;
+	font-family: 'Lexend Giga', sans-serif;
+	letter-spacing: 2px;
+	padding-top: 5px;
+}
+a
+{
+	color: white;	
+}
+#move
+{
+	font-size: 30px;
+
+}
+
+.navbar-brand
+{
+	
+	font-size: 2rem;
+}
+.jumbotron
+{
+	background: none;
+	text-align: left;
+	margin-top: 20%;
+	color: white;
+}
